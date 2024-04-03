@@ -4,3 +4,60 @@
 
 }
 
+body {
+
+    min-height: 100vh;
+    margin: 0px;
+
+    flex-direction: column;
+    display: flex;
+
+    justify-content: center;
+    align-items: center;
+    
+    background-color: black;
+}
+
+.sketchpad {
+    
+    background-color: orange;
+    padding: 20px;
+    
+    border-radius: 20px;
+    
+    aspect-ratio: 1;
+
+    min-height: 60vh;
+    
+    display: flex;
+    flex-direction: column;    
+    
+    gap: 2px;
+
+}
+
+.row {    
+    
+    display: flex;       
+    justify-content: space-between;
+    flex: 1;
+
+    gap: 2px;
+
+    
+}
+
+.rowEntry {    
+    
+    background-color: white;    
+
+    flex: 1;
+}
+
+.mouseover {
+
+    background-color: black;
+
+    flex: 1;    
+
+}
