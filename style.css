@@ -61,3 +61,42 @@ body {
     flex: 1;    
 
 }
+
+header {
+
+    background-color: black;
+
+    margin-bottom: auto;
+
+    font-size: 40px;
+    font-weight: bold;
+
+    padding: 30px;
+    padding-bottom: 0px;
+
+    color: white;
+
+}
+
+footer {
+
+    background-color: black;
+
+    color: white;
+
+    padding: 30px;
+
+    margin-top: auto;
+
+}
+
+.btn {
+
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 5px;
+    
+
+    border-radius: 7.5px;
+
+}
