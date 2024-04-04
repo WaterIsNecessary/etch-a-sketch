@@ -12,7 +12,7 @@ well as the sketchpad and button being contained in their own div to control
 their placement within this column format.
 
 - Create a rainbow mode, opacity mode (incrementing in opacity by 10% each 
-mouseover) and eraser mode.
+mouseover), choose a color mode and eraser mode.
 
 - Create a slider for increasing or decreasing grid size
 
